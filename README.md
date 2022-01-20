@@ -3,12 +3,12 @@
 *There are better resources than github.*
 
 1. Gather Tools
-    >>    You want to acquire 
-    >>      - `Breaker Bar` for breaking nuts and `Rachet` for finishing them (Are they Metric or SAE spec?)
-    >>      - `Jack` and `Stands` 
-    >>      - `Torque Wrench` non-negotiable 
-    >>      - `Brake Pads` (preferrably new ones) 
-    >>      - `Antiseize` if you ever want to do this job again
+    >>    You want to acquire \
+    >>      - `Breaker Bar` for breaking nuts and `Rachet` for finishing them (Are they Metric or SAE spec?) \
+    >>      - `Jack` and `Stands`  \
+    >>      - `Torque Wrench` non-negotiable  \
+    >>      - `Brake Pads` (preferrably new ones)  \
+    >>      - `Antiseize` if you ever want to do this job again \
 1. Break Nuts
     >> You can't break them while the wheels are spinning so now is the time to do it with your `breaker bar`.
 1. Lift Car
