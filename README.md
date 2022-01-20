@@ -2,6 +2,10 @@
 # Your Brake Pads?
 *There are better resources than github.*
 
+Proactive drivers find the mileage markers in their glove compartment's owners manual to know when to replace their brakes. For everyone else, there are a few indicators. Your braking could feel sloppy. You may hear a grinding from your wheels as the wear indicator touches the rotor. Your brake pad may fall out at a red light. \
+All of these indicate that it's time for a change. 
+
+
 1. Gather Tools
     >>    You want to acquire \
     >>      - `Breaker Bar` for breaking nuts and `Rachet` for finishing them (Are they Metric or SAE spec?) \
@@ -12,6 +16,7 @@
 1. Break Nuts
     >> You can't break them while the wheels are spinning so now is the time to do it with your `breaker bar`.
 1. Lift Car
+    >> Apply your e-brake. 
     >> Most new cars like to hide the Jack spots. Be careful, be mindful, place it right the first time. 
     >> You don't want the car held up by the `jack` while working. 
     >> Once high enough, place the `stands` under the frame near the wheels. 
