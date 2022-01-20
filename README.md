@@ -12,7 +12,7 @@ All of these indicate that it's time for a change.
     >>      - `Jack` and `Stands`  \
     >>      - `Torque Wrench` non-negotiable  \
     >>      - `Brake Pads` (preferrably new ones)  \
-    >>      - `Antiseize` if you ever want to do this job again \
+    >>      - `Antiseize` if you want to enjoy this job the next time.
 1. Break Nuts
     >> You can't break them while the wheels are spinning so now is the time to do it with your `breaker bar`.
 1. Lift Car
