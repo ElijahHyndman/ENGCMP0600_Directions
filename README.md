@@ -2,7 +2,7 @@
 # Your Brake Pads?
 *There are better resources than github.*
 
-Proactive drivers find the mileage markers in their glove compartment's owners manual to know when to replace their brakes. For everyone else, there are a few indicators. Your braking could feel sloppy. You may hear a grinding from your wheels as the wear indicator touches the rotor. Your brake pad may fall out at a red light. \
+Proactive drivers will find mile-markers in the Glove Compartment's owners manual to know when to replace their brakes. For everyone else, there are a few indicators. Your braking could feel sloppy. You may hear a grinding from your wheels as the wear indicator touches the rotor. Your brake pad may fall out at a red light. \
 All of these indicate that it's time for a change. 
 
 
