@@ -6,7 +6,7 @@ Proactive drivers will find mile-markers in the Glove Compartment's owners manua
 All of these indicate that it's time for a change. 
 
 
-1. Gather Tools
+Gather Tools
     >>    You want to acquire \
     >>      - `Breaker Bar` for breaking nuts and `Rachet` for finishing them (Are they Metric or SAE spec?) \
     >>      - `Jack` and `Stands`  \
